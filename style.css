@@ -19,7 +19,8 @@ body {
 }
 
 a {
-  color: #33a0c0;
+  color: #2ecc71;
+  text-decoration:none;
 }
 
 section {
@@ -223,4 +224,10 @@ section:nth-child(2n) {
     position:fixed;
     right:30px;
     top:30px
+}
+.topright2{
+    position:absolute;
+    right:30px;
+    top:60px
+
 }
